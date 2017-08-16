@@ -1,2 +1,2 @@
 Hello Git!
-ya
+conflict second!
